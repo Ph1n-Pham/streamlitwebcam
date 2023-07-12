@@ -25,8 +25,8 @@ def main():
                        page_icon=':camera:', 
                        layout='centered')
     
-    # Set the background
-    help.set_bg_hack()
+    # # Set the background
+    # help.set_bg_hack()
     
     # ===================== Set header and site info =============================
     # Set app header
