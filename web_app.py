@@ -15,7 +15,7 @@ import os # used to save images in a directory
 import object_detection as detect
 import snapshot as snap
 import helper as help
-
+from ultralytics import YOLO
 def main():
     
     # ===================== Set page config and background =======================
